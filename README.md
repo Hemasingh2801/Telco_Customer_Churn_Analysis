@@ -93,6 +93,10 @@ The dataset included customer-level telecom records with:
 
 •	Churn Reason 
 
+# Dashboard
+<img width="848" height="478" alt="image" src="https://github.com/user-attachments/assets/300053f4-d5dd-4d28-bfed-40873d46da0b" />
+<img width="859" height="481" alt="image" src="https://github.com/user-attachments/assets/96b79421-17ae-4ae9-aeb6-313d5ddb7058" />
+
 
 
 
